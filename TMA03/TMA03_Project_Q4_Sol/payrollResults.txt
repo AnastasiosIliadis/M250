@@ -1,0 +1,14 @@
+Sleepy Servlet (Grade 1, ID 1) Hours 211 Pay 211
+Doc Datamine (Grade 1, ID 4) Hours 312 Pay 312
+Slothful Screenshot (Grade 1, ID 10) Hours 378 Pay 378
+Luxuria Laptop (Grade 1, ID 9) Hours 429 Pay 429
+Gluttonous Gui (Grade 1, ID 13) Hours 451 Pay 451
+Grumpy Gopher (Grade 2, ID 2) Hours 323 Pay 646
+Proud Packet (Grade 2, ID 8) Hours 374 Pay 748
+Bashful Bandwidth (Grade 2, ID 5) Hours 398 Pay 796
+Irate Iteration (Grade 2, ID 12) Hours 418 Pay 836
+Sneezy Sandbox (Grade 3, ID 3) Hours 279 Pay 837
+Avaricious Algorithm (Grade 2, ID 11) Hours 442 Pay 884
+Dopey Desktop (Grade 3, ID 6) Hours 398 Pay 1194
+Happy Hyperlink (Grade 3, ID 7) Hours 408 Pay 1224
+Envious Ethernet (Grade 3, ID 14) Hours 455 Pay 1365

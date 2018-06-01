@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+C:\M250PortableV5\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\M250PortableV5\BlueJ\lib\bluejcore.jar;C:\M250PortableV5\BlueJ\lib\junit-4.8.2.jar;C:\M250PortableV5\BlueJ\lib\userlib\asm-debug-all-4.0_RC1.jar;C:\M250PortableV5\BlueJ\lib\userlib\bsh-2.1b2_OU.jar;C:\M250PortableV5\BlueJ\lib\userlib\ou.jar;C:\M250PortableV5\BlueJ\lib\userlib\pi4j-core.jar;C:\M250PortableV5\BlueJ\lib\userlib\pi4j-device.jar;C:\M250PortableV5\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\M250PortableV5\BlueJ\lib\userlib\pi4j-service.jar;C:\M250PortableV5\BlueJ\lib\userlib\swingx-core-1.6.2.jar;C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\+libs\amphibianworlddetails.jar;C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol
+-d
+C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+-docletpath
+C:\M250PortableV5\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\FrogDanceCoordinator.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\FrogDanceCoordinator.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_65
+Building tree for all the packages and classes...
+Generating C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\doc\FrogDanceCoordinator.html...
+C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\FrogDanceCoordinator.java:11: warning - @15/04/2018 is an unknown tag.
+Generating C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\doc\package-frame.html...
+Generating C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\doc\package-summary.html...
+Generating C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\doc\allclasses-frame.html...
+Generating C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\doc\allclasses-noframe.html...
+Generating C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\doc\index.html...
+Generating C:\Users\Anastasios\Desktop\The open university 2017\M250 2017\TMA03\tma03 solutions\TMA03_Project_Q1_Sol\doc\stylesheet.css...
+1 warning
